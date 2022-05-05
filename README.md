@@ -5,4 +5,4 @@ Contributors:
 
 1) Kusuma Shree V  : PES1UG19CS241
 2) Mayuri D Patil  : PES1UG19CS267
-3) Navys C         : PES1UG20CS818
+3) Navya C         : PES1UG20CS818
